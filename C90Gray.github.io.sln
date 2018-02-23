@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "PracticeCSSEffects", "PracticeCSSEffects\", "{91AC0832-1062-440D-BB79-B3C5D9D69E89}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_55919"
+		Debug.AspNetCompiler.PhysicalPath = "PracticeCSSEffects\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55919\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_55919"
+		Release.AspNetCompiler.PhysicalPath = "PracticeCSSEffects\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55919\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "55919"
+		SlnRelativePath = "PracticeCSSEffects\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91AC0832-1062-440D-BB79-B3C5D9D69E89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91AC0832-1062-440D-BB79-B3C5D9D69E89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67CE67F5-BC3C-405D-841C-F79A9B95CCB6}
+	EndGlobalSection
+EndGlobal
