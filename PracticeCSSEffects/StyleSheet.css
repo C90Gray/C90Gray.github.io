@@ -23,6 +23,14 @@
     grid-template-columns: repeat(9, 1fr);
 }
 
+@media only screen (min-width:768px) {
+    .container{
+    display:flex;
+    flex-direction:column;
+    flex-wrap:wrap;
+    }
+}
+
 
 .space {
     display: flex;
