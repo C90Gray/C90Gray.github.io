@@ -943,7 +943,7 @@ span a {
     color: black;
     margin: 2px;
     padding: 2px;
-    text-shadow: 8px 4px rgba(77, 77, 77, 0.5)
+    text-shadow: 3px 1px rgba(77, 77, 77, 0.5)
 }
 
 #line {
@@ -961,7 +961,7 @@ span a {
     margin-top: 50px;
     margin-bottom: 2px;
     padding: 2px;
-    text-shadow: 8px 4px rgba(77, 77, 77, 0.5)
+    text-shadow:3px 1px rgba(77, 77, 77, 0.5)
 }
 
 #proj {
